@@ -3,3 +3,15 @@ git commit -m "pesan apa saja"
 git push
 popup: kalo ada popup select
 popup: kalo ada popup select
+
+CTRL + C = COPY
+CTRL + V = PASTE
+CTRL + A = BLOCK ALL
+
+CTRL + ` = BUKA TERMINAL
+CTRL + SHIFT + PANAH 
+
+php artisan make:controller NamaController = INI BUAT controller
+php artisan make:migration create_produk_table = BUAT TABEL
+
+
