@@ -1,0 +1,5 @@
+git add .
+git commit -m "pesan apa saja"
+git push
+popup: kalo ada popup select
+popup: kalo ada popup select
